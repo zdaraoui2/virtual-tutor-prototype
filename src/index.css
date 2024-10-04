@@ -1,0 +1,83 @@
+.App {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .question-box,
+  .faq-section {
+    margin: 20px 0;
+  }
+  
+  textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 1em;
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 1em;
+  }
+  
+  .answer-box {
+    margin-top: 20px;
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 5px;
+  }
+  
+  .faq-section ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .faq-section li {
+    margin-bottom: 15px;
+  }
+  
+
+.conversation {
+    margin-top: 20px;
+    max-height: 400px;
+    overflow-y: auto;
+    padding: 10px;
+    background-color: #f7f7f7;
+    border-radius: 5px;
+  }
+  
+  .message {
+    margin-bottom: 15px;
+  }
+  
+  .message.user {
+    text-align: right;
+  }
+  
+  .message.assistant {
+    text-align: left;
+  }
+  
+  .message strong {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .question-box textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 1em;
+  }
+  
+  .question-box button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 1em;
+  }
