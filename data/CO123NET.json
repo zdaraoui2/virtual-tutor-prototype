@@ -1,0 +1,32 @@
+{
+    "module": {
+      "name": "Introduction to Networking",
+      "code": "CO123NET",
+      "university": "Buckinghamshire New University",
+      "description": "This module introduces the fundamental concepts of networking, including network topologies, protocols, and the OSI model. Students will explore key networking technologies, IP addressing, and subnetting. The module emphasizes practical applications of networking in modern systems, preparing students for more advanced networking topics.",
+      "assessments": [
+        {
+          "name": "Network Design Project",
+          "weight": "100%",
+          "dueDate": "5pm on Fri 15th December 2024",
+          "details": [
+            "Students must design a complete network infrastructure for a small business, covering key aspects such as topology, IP addressing, and subnetting.",
+            "The project must include a detailed report explaining the design decisions and how the network meets the business's requirements.",
+            "A network simulation using tools like Cisco Packet Tracer or GNS3 must be provided as part of the submission."
+          ]
+        }
+      ],
+      "submissionGuidelines": {
+        "platform": "Blackboard",
+        "steps": [
+          "Log in to Blackboard using your student credentials.",
+          "Navigate to the Introduction to Networking (CO123NET) module.",
+          "Locate the relevant assignment submission link for the Final Network Design Project.",
+          "Upload your completed project. Preferred format is PDF for the report and .pkt or .gns3 for the simulation files.",
+          "Once uploaded, click Submit to complete the submission process."
+        ],
+        "important": "Ensure you keep a copy of your submission confirmation/receipt as proof of submission. Always verify the specific instructions provided by your tutor on Blackboard."
+      }
+    }
+  }
+  

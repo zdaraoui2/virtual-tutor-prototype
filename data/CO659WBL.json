@@ -1,0 +1,37 @@
+{
+  "module": {
+    "name": "Enterprise Systems Development",
+    "code": "CO659WBL",
+    "university": "Buckinghamshire New University",
+    "description": "This module focuses on N-tier architecture, Distributed Systems, Microservices, and Agile and Scrum methodologies. The module integrates a Live Brief, focusing on problem-based learning (PBL) and project-based learning (PjBL). Students will engage with real-world scenarios, collaborate in teams, and apply theoretical knowledge to practical problems, developing both technical and teamwork skills.",
+    "assessments": [
+      {
+        "name": "Timed Constrained Assessment (TCA)",
+        "weight": "30%",
+        "dueDate": "5pm on Fri 8th November 2024",
+        "details": [
+          "The TCA assignment brief will be released under the 'TCA' section on Blackboard at 9am on Mon 4th November 2024.",
+          "The TCA will take place online during the week commencing Mon 4th November 2024.",
+          "You and your team will have 5 days (Mon to Fri) to prepare and record a team presentation."
+        ]
+      },
+      {
+        "name": "CW1 Industry Brief Assignment",
+        "weight": "70%",
+        "dueDate": "2pm on Mon 2nd December 2024",
+        "details": []
+      }
+    ],
+    "submissionGuidelines": {
+      "platform": "Blackboard",
+      "steps": [
+        "Log in to Blackboard using your student credentials.",
+        "Navigate to the Enterprise Systems Development (CO659WBL) module.",
+        "Locate the relevant assignment submission link for TCA or CW1.",
+        "Upload your completed assignment. Preferred format is PDF to ensure consistent formatting, though other formats like .docx may be accepted.",
+        "Once uploaded, click Submit to complete the submission process."
+      ],
+      "important": "Keep a copy of your submission confirmation/receipt as proof of submission. Always double-check the specific instructions provided by your tutor, which may be found in the module handbook or on Blackboard."
+    }
+  }
+}

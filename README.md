@@ -1,6 +1,6 @@
 # Virtual Tutor App
 
-This project is a prototype of a **Virtual Tutor** application built using [React](https://reactjs.org/), [Vite](https://vitejs.dev/), and runs on the [Bun](https://bun.sh/) JavaScript runtime. The application aims to provide students with a platform to ask tailored questions related to their course modules, leveraging a Large Language Model (LLM) to generate personalised and meaningful responses.
+This project is a proof of concept prototype of a **Virtual Tutor** application built using [React](https://reactjs.org/), [Vite](https://vitejs.dev/), and runs on the [Bun](https://bun.sh/) JavaScript runtime. The application aims to provide students with a platform to ask tailored questions related to their course modules. It uses GPT-4 along with a customised prompt to be able to answer questions specific to a module.
 
 ## Features
 

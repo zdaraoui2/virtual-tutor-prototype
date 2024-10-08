@@ -1,0 +1,52 @@
+{
+    "module": {
+      "name": "Introduction to Programming in C",
+      "code": "CO105C",
+      "university": "Buckinghamshire New University",
+      "description": "This module introduces students to the core principles of programming using the C language. It covers basic programming constructs such as variables, loops, conditional statements, functions, and pointers. Students will also learn about memory management, file handling, and the use of data structures in C. By the end of the module, students will have the foundational skills necessary for more advanced programming topics.",
+      "assessments": [
+        {
+          "name": "Basic C Programming",
+          "weight": "30%",
+          "dueDate": "5pm on Fri 10th November 2024",
+          "details": [
+            "Write a set of simple programs that demonstrate your understanding of variables, loops, and conditional statements in C.",
+            "Each program should perform a different task (e.g., summing a list of numbers, finding the largest number in an array, etc.).",
+            "Include well-commented code and use functions where applicable."
+          ]
+        },
+        {
+          "name": "Functions and Pointers",
+          "weight": "30%",
+          "dueDate": "5pm on Fri 8th December 2024",
+          "details": [
+            "Create a program that demonstrates your understanding of functions, pointers, and dynamic memory allocation.",
+            "Your program should implement several functions that manipulate data using pointers and include error handling.",
+            "The program must handle user input and display the results clearly."
+          ]
+        },
+        {
+          "name": "C Programming Project",
+          "weight": "40%",
+          "dueDate": "5pm on Fri 20th January 2025",
+          "details": [
+            "Develop a command-line application that integrates all the concepts learned throughout the module, including functions, pointers, file handling, and memory management.",
+            "The project must be well-structured, with clear and concise comments explaining the code.",
+            "Include a detailed report that explains how the code works and addresses challenges encountered during development."
+          ]
+        }
+      ],
+      "submissionGuidelines": {
+        "platform": "Blackboard",
+        "steps": [
+          "Log in to Blackboard using your student credentials.",
+          "Navigate to the Introduction to Programming in C (CO105C) module.",
+          "Locate the relevant assignment submission link for the respective assignment (Assignment 1, Assignment 2, or Final Project).",
+          "Upload your code files, preferably in a compressed zip folder, and ensure that your report is in PDF format.",
+          "Once uploaded, click Submit to complete the submission process."
+        ],
+        "important": "Ensure you keep a copy of your submission confirmation/receipt as proof of submission. Always verify the specific instructions provided by your tutor on Blackboard."
+      }
+    }
+  }
+  
